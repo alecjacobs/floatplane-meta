@@ -1,4 +1,3 @@
 # FloatPlaneMeta
 
-- bookmarklet to toggle "theater" mode on a video on floatplane.com
-
+A bookmarklet to toggle "theater" mode on a floatplane.com video :)
